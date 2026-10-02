@@ -1,2 +1,2 @@
 # coursera-advanced-algorithms-and-complexity
-My answers for the coursera's "advanced algorithms and complexity" course
+My answers to Coursera’s “Advanced Algorithms and Complexity” course.
